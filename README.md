@@ -1,2 +1,2 @@
-# mob-x_state_management
+# mob-x state_management.
  Managing the state using Mob-X 
